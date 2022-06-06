@@ -10,16 +10,8 @@ public class LoginSteps {
 	@Given("user is on login page")
 	public void user_is_on_login_page() {
 		System.out.println("user is on login page");
-		System.out.println("user is on login page");
-		System.out.println("user is on login page");
-		System.out.println("user is on login page");
-		System.out.println("user is on login page");
 		
-		//
-		//
-		//
-		//
-		//
+		// this is old one 
 		
 		
 	}
