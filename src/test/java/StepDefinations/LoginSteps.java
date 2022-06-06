@@ -25,6 +25,16 @@ public class LoginSteps {
 	public void clicks_on_login_button() {
 		System.out.println("clicks on login button");
 	}
+	
+	@And("clicks on login button")
+	public void clicks_on_login_button__Ashu1() {
+		System.out.println("clicks on login button");
+	}
+	
+	@And("clicks on login button")
+	public void clicks_on_login_button__ASHU2() {
+		System.out.println("clicks on login button");
+	}
 
 	@Then("user is navigated to home page")
 	public void user_is_navigated_to_home_page() {
