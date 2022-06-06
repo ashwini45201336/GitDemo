@@ -27,12 +27,16 @@ public class LoginSteps {
 	}
 	
 	@And("clicks on login button")
+<<<<<<< HEAD
 	public void clicks_on_login_button__Ashu1() {
 		System.out.println("clicks on login button");
 	}
 	
 	@And("clicks on login button")
 	public void clicks_on_login_button__ASHU2() {
+=======
+	public void clicks_on_logout_button() {
+>>>>>>> 01b8eb6de1457993a267389a14d2cc13f2b75a82
 		System.out.println("clicks on login button");
 	}
 
